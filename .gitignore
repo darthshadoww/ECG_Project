@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.pt
+interface_test_samples/
+.idea/
+.vscode/
